@@ -6,7 +6,7 @@ Hi there! I am currently studying my final year in finance and economics at the 
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Reinis' GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rfals&show_icons=true&theme=tokyonight" />
+  <img align="left" alt="Reinis' GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rfals&count_private=true" />
 </details>
 
 <details>
